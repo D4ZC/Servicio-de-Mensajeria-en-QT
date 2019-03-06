@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/">
+        <file>mebsaje_jg7_icon.ico</file>
+    </qresource>
+</RCC>
